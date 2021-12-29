@@ -13,3 +13,16 @@ deep, these plies will allow for the AI to execute each move
 within a reasonable time frame. Naturally, selecting a higher
 ply will yield a more challenging AI as it looks deeper into
 the benefits and consequences of each move
+
+To execute the program, launch the associated
+program in any java-supporting IDE and run the
+GUI class. Please ensure that the following libraries
+are installed or supported by the IDE in use:
+javax.swing.∗, java.swing,plaf.BoarderUIResource, java.awt∗,
+java.awt.event.ActionEvent, java.awt.event.ActionLisstener,
+java.util.∗, java.util.List. When the class is run, this will then
+present the interface shown in Fig 1, which will allow for
+the game-mode and difficulty selection. Whilst the standard
+chess-setup is the default, if a player so chose to, they could
+alter the setup manually in the chess board class, which
+would be supported.
