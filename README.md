@@ -26,3 +26,11 @@ the game-mode and difficulty selection. Whilst the standard
 chess-setup is the default, if a player so chose to, they could
 alter the setup manually in the chess board class, which
 would be supported.
+
+Here is an image of the interface:
+
+![image](https://user-images.githubusercontent.com/80646420/147707211-48fa815b-b6b5-49e1-aab8-0ba84a8b1857.png)
+
+Here is the game:
+
+![image](https://user-images.githubusercontent.com/80646420/147707206-d7eb4f28-74b7-4c1f-9078-3d1669596b52.png)
