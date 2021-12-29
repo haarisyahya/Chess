@@ -1,5 +1,5 @@
 # Chess
-A chess game made in Java using alpha-beta pruning. 
+A chess game made in Java using alpha-beta pruning and Minimax. 
 The game has a GUI and can be ran using the Interface class.
 The associated program was written completely in Java and
 aims to execute a fully-functional chess program that can be
