@@ -1,5 +1,0 @@
-enum Players
-{
-    Human,
-    Computer
-}
