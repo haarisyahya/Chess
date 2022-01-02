@@ -12,7 +12,7 @@ to select either two ply or four ply for the AI. Whilst not too
 deep, these plies will allow for the AI to execute each move
 within a reasonable time frame. Naturally, selecting a higher
 ply will yield a more challenging AI as it looks deeper into
-the benefits and consequences of each move
+the benefits and consequences of each move.
 
 To execute the program, launch the associated
 program in any java-supporting IDE and run the
